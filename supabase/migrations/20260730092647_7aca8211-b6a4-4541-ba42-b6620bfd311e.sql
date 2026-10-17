@@ -1,0 +1,1 @@
+ALTER TABLE public.script_users ADD COLUMN IF NOT EXISTS place_id BIGINT; ALTER TABLE public.script_users ADD COLUMN IF NOT EXISTS game_name TEXT;

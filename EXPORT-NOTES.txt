@@ -1,0 +1,5 @@
+Ban xuat ma nguon web hien tai.
+Khong kem .env, khoa bi mat, du lieu nguoi dung, node_modules hay ket qua build.
+Cac migration chi chua cau truc va thay doi ung dung, khong phai ban sao du lieu dang chay.
+Can cau hinh dich vu va bien moi truong rieng de chay ngoai Lovable.
+May chu obfuscator .NET tu ZIP tai len chua duoc tich hop.

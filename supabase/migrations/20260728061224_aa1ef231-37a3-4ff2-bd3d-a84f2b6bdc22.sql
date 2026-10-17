@@ -1,0 +1,1 @@
+ALTER TABLE public.script_users ADD COLUMN IF NOT EXISTS blacklist_message text NOT NULL DEFAULT '';

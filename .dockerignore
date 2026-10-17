@@ -1,0 +1,14 @@
+.git
+.github
+node_modules
+.output
+.tanstack
+.nitro
+.vinxi
+dist
+dist-ssr
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store

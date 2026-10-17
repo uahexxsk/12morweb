@@ -1,0 +1,1 @@
+ALTER TABLE public.script_keys ADD COLUMN IF NOT EXISTS auto_reset_hwid boolean NOT NULL DEFAULT false;
